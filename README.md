@@ -9,7 +9,7 @@ How to run the app:
 
 1. cd into your project folder
 2. Open terminal and run `npm install` (this will install the required dependencies)
-3. Update the `.env` file with the URI for the companion frontend app(google_elevation_demo)
+3. Update the `.env` file with the URI for the companion frontend app (google_elevation_demo)
 4. Run `npm run dev`
 
 This project is designed to run with [google_elevation_demo](https://github.com/afilabs/google_elevation_demo).
